@@ -1,6 +1,7 @@
-##Welcome BMS!! - Practice(I)
+Welcome BMS!! - Practice(I)
+================
 
-Are you ready to go?
+A book management system using in intranet, provides books management, booking, new book request and reporting
 
 
 ##Pivatal Tracker
