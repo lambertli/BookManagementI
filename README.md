@@ -30,7 +30,7 @@ Wayne + n/a
 	git clone https://github.com/JingBei/BookManagementI.git
 	git branch mylocalbranch
 	git pull origin master
-	#coding for a store
+	#coding for a story
 	git add .
 	#verify
 	git status 
